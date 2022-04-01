@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2021-06-12 06:50:41">
+<sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+<filter table="u_m2m_alert_grouping_logic_elements.u_alert_grouping_logic"/>
+<list_id display_value="Simple Correlation Logic - Default view" name="u_alert_grouping_logic" view="Default view" related_list="NULL" sys_domain="global">5692bf751b54fc50a548c880604bcbcb</list_id>
+<order_by/>
+<position>1</position>
+<related_list>u_m2m_alert_grouping_logic_elements.u_alert_grouping_logic</related_list>
+<sys_class_name>sys_ui_related_list_entry</sys_class_name>
+<sys_created_by>barak.pinchovski@snc</sys_created_by>
+<sys_created_on>2021-05-24 13:56:55</sys_created_on>
+<sys_id>da92bf751b54fc50a548c880604bcbcd</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>matt.morris</sys_updated_by>
+<sys_updated_on>2021-06-12 06:50:09</sys_updated_on>
+</sys_ui_related_list_entry>
+</unload>
